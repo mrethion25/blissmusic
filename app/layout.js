@@ -12,8 +12,8 @@ const bricolage_grotesque = Bricolage_Grotesque({
 });
 
 export const metadata = {
-  title: "MusicHub",
-  description: "Open-Source music streamer.",
+  title: "Bliss Music",
+  description: "this website is developed by ARIMA, it is on test version right now have nice time using this app [direct .mp3 downloads, 4k quality, 100% ad free experience etc].",
   icons: "/favi-icon.jpg",
   manifest: "/manifest.json",
 };
